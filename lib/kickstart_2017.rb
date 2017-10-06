@@ -27,5 +27,5 @@ module Kickstart2017
 
     ::Sass.load_paths << stylesheets_path
     ::Sass::Script::Number.precision = [10, ::Sass::Script::Number.precision].max
-  end 
+  end
 end
