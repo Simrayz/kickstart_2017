@@ -1,1 +1,1 @@
-//= require ./kickstart_rails/kickstart
+//= require ./kickstart_2017/kickstart
