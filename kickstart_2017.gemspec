@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Kickstart2017::VERSION
   s.authors     = ["Simrayz"]
   s.email       = ["simenabelsen@hotmail.no"]
-  s.homepage    = "www.abelweb.no"
+  s.homepage    = "http://abelweb.no"
   s.summary     = "Fork of Kickstart 3"
   s.description = "The kickstart_rails gem depends on an old version of autoprefixer. This uses an updated version."
   s.license     = "MIT"
